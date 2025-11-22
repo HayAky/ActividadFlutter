@@ -1,4 +1,4 @@
-# acti_layout
+# Actividad 1 : Arquitecti de Layouts en Flutter
 
 A new Flutter project.
 
